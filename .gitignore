@@ -1,0 +1,9 @@
+# data and outputs (download data from Source Cooperative; see README)
+reference/
+strata/
+features_*.csv
+consequence_*.csv
+submission_*.csv
+SampleSubmission.csv
+*.parquet
+__pycache__/
